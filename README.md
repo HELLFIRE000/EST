@@ -5,6 +5,6 @@ ddos
 dos
 ip lookup
 x/twitter info
-+ more
+more
 this tool is to not be taken lightly as it might look innocent and weak because of it not taking up much storage space but
 it is a powerful lightweight tool that is up to daily standards of most pen-testers and coders this tool works wonders
